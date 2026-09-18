@@ -1,4 +1,4 @@
-Calorie Calculator
+## Calorie Calculator
 1. Project Overview
 
 Calorie Calculator is a Java-based console application that calculates a user's Basal Metabolic Rate (BMR) and estimated daily calorie requirement.
