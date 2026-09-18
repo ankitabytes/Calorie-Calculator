@@ -30,6 +30,9 @@ GitHub
 4. Project Structure
 Calorie-Calculator/
 │
+├── screenshots/
+│   └── output.png
+│
 ├── CalorieCalculator.java
 ├── MainApp.java
 ├── ResultDisplay.java
