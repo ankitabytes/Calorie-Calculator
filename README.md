@@ -85,6 +85,6 @@ Your estimated daily calorie needs are: 2339 calories per day.
 
 7. Screenshots
 
-![Calorie Calculator Output](screenshots/output.png)
+[Calorie Calculator Output](screenshots/output.png)
 
 
